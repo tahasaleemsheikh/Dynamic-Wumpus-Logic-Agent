@@ -24,9 +24,8 @@ Unlike simple reactive agents, this Knowledge Base (KB) Agent relies entirely on
 ## 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3 (Vanilla)
 * **Logic Engine:** JavaScript (ES6+)
-* **Deployment:** Vercel
+* **Deployment link:** https://wumpuslogicagent.netlify.app/
 
 ## 👨‍💻 Author
-**Name:** Muhammad Hassaan
-**Identification:** 24F-0736 
-**GitHub:** [@Z-HaSsAaN](https://github.com/Z-HaSsAaN)
+**Name:**Taha Saleem
+**Identification:** 23F-0517 
