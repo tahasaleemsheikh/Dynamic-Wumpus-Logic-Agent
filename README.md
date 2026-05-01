@@ -22,5 +22,5 @@ Unlike simple reactive agents, this Knowledge Base (KB) Agent relies entirely on
 * **Deployment link:** https://wumpuslogicagent.netlify.app/
 
 ## 👨‍💻 Author
-**Name:**Taha Saleem
+Name:Taha Saleem
 **Identification:** 23F-0517 
