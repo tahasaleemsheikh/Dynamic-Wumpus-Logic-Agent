@@ -2,11 +2,6 @@
 
 A web-based artificial intelligence agent that navigates the classic "Wumpus World" environment using **Propositional Logic** and **Set-of-Support Resolution Refutation**.
 
-**🔗 [Play the Live Demo on Vercel](https://wumpus-ai.vercel.app/)** 
-**🎥 [Watch the Video Breakdown on LinkedIn](https://www.linkedin.com/posts/muhammad-hassaan-16b012254_i-recently-completed-an-artificial-intelligence-ugcPost-7455865935304794112-AVWP)**
-
----
-
 ## 🧠 The AI Logic Engine
 Unlike simple reactive agents, this Knowledge Base (KB) Agent relies entirely on mathematical proof to guarantee safety, falling back to calculated speculation only when mathematically stalled.
 
